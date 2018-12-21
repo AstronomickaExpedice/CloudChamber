@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="schema.svg">
+   sodipodi:docname="schema.svg"
+   inkscape:export-filename="/home/roman/repos/CloudChamber/doc/img/schema.svg.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="543.55834"
+     inkscape:cx="525.7012"
      inkscape:cy="826.74724"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
